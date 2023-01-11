@@ -1,0 +1,11 @@
+D:\Users\banan\source\repos\BMI Project\BMI Project\bin\Debug\BMI Project.exe.config
+D:\Users\banan\source\repos\BMI Project\BMI Project\bin\Debug\BMI Project.exe
+D:\Users\banan\source\repos\BMI Project\BMI Project\bin\Debug\BMI Project.pdb
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.AssemblyReference.cache
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.SuggestedBindingRedirects.cache
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI_Project.Form1.resources
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI_Project.Properties.Resources.resources
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.GenerateResource.cache
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.csproj.CoreCompileInputs.cache
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.exe
+D:\Users\banan\source\repos\BMI Project\BMI Project\obj\Debug\BMI Project.pdb

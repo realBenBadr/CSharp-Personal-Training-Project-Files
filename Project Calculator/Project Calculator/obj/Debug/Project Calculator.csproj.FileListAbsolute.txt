@@ -1,0 +1,11 @@
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.AssemblyReference.cache
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project_Calculator.Form1.resources
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project_Calculator.Properties.Resources.resources
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.GenerateResource.cache
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.CoreCompileInputs.cache
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\bin\Debug\Project Calculator.exe.config
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\bin\Debug\Project Calculator.exe
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\bin\Debug\Project Calculator.pdb
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.exe
+D:\Users\banan\source\repos\Project Calculator\Project Calculator\obj\Debug\Project Calculator.pdb

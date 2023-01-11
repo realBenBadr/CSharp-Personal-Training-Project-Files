@@ -1,0 +1,11 @@
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.csproj.AssemblyReference.cache
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training_2_Calculator.Form1.resources
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training_2_Calculator.Properties.Resources.resources
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.csproj.GenerateResource.cache
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.csproj.CoreCompileInputs.cache
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\bin\Debug\Training 2 Calculator.exe.config
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\bin\Debug\Training 2 Calculator.exe
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\bin\Debug\Training 2 Calculator.pdb
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.exe
+D:\Users\banan\source\repos\Training 2 Calculator\Training 2 Calculator\obj\Debug\Training 2 Calculator.pdb
