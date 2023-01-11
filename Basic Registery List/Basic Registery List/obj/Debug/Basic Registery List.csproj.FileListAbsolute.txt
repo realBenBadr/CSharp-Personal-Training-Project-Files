@@ -1,0 +1,11 @@
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\bin\Debug\Basic Registery List.exe.config
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\bin\Debug\Basic Registery List.exe
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\bin\Debug\Basic Registery List.pdb
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.csproj.AssemblyReference.cache
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.csproj.SuggestedBindingRedirects.cache
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic_Registery_List.Form1.resources
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic_Registery_List.Properties.Resources.resources
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.csproj.GenerateResource.cache
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.csproj.CoreCompileInputs.cache
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.exe
+D:\Users\banan\source\repos\Basic Registery List\Basic Registery List\obj\Debug\Basic Registery List.pdb
